@@ -1,3 +1,6 @@
+# MyMedViT-Improvement
+This repo is based on MedViT by Omid Nejati (https://github.com/Omid-Nejati/MedViT), released under MIT License. I am using it for personal improvement and learning.
+
 # MedViT: A Robust Vision Transformer for Generalized Medical Image Classification
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2302.09462)
